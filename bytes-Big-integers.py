@@ -2,7 +2,4 @@
 
 import Crypto.Util.number
 
-
-#bref 
-#bref2 xD
-print("Oaaaayyy oooh")
+#Matotra amzay x') 
